@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the accompanying manuscript as specified below."
+type: dataset
+title: "Companion materials for the lens selection function S_B"
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Jiang
+    given-names: Xinyue
+  - family-names: Cao
+    given-names: Shuo
+  - family-names: Guo
+    given-names: Wuzheng
+  - family-names: Zheng
+    given-names: Chenfa
+  - family-names: Mu
+    given-names: Chengsheng
+  - family-names: Geng
+    given-names: Shuaibo
+  - family-names: Biesiada
+    given-names: Marek
+  - family-names: Nan
+    given-names: Yalong
+preferred-citation:
+  type: unpublished
+  title: "The mass density slope of early-type galaxies: newest results from the redshift distribution of strong gravitational lenses"
+  year: 2026
+  authors:
+    - family-names: Jiang
+      given-names: Xinyue
+    - family-names: Cao
+      given-names: Shuo
+    - family-names: Guo
+      given-names: Wuzheng
+    - family-names: Zheng
+      given-names: Chenfa
+    - family-names: Mu
+      given-names: Chengsheng
+    - family-names: Geng
+      given-names: Shuaibo
+    - family-names: Biesiada
+      given-names: Marek
+    - family-names: Nan
+      given-names: Yalong
+  notes: "Manuscript; add the publication identifier when available."
